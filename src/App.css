@@ -1,0 +1,15 @@
+:root {
+  --akn-logo-size: 13vmin;
+  --akn-h1: calc(10px + 3vmin);
+  --akn-h2: calc(10px + 2vmin);
+  --akn-p: calc(10px + 1vmin);
+  --akn-bg-color: #eff0fc;
+}
+
+* {
+  transition: all ease-out 0.3s;
+}
+
+.App-decoration {
+  background-color: var(--akn-bg-color);
+}

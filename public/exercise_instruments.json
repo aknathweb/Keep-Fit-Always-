@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Deadlift",
+        "about": "The bread and butter of countless gym routines, this move, if done properly, will predominantly engage your back and legs, while building overall strength for you entire body. If you want to master the deadlift",
+        "time": 20,
+        "image": "https://www.muscleandfitness.com/wp-content/uploads/2019/05/Bodybuilder-Deadlifting-Heavy-Weight.jpg?w=800&quality=82&strip=all"
+    },
+    {
+        "title": "Standing Barbell Curl",
+        "about": "This traditional bodybuilding move is a staple for building bigger biceps. In a controlled motion, bend your elbows and curl the barbell as close to your shoulders as you can. Pause at the top, then slowly return your arms to their original position.",
+        "time": 15,
+        "image": "https://www.muscleandfitness.com/wp-content/uploads/2018/11/Muscular-Fit-Man-Working-Out-Arms-WIth-A-Standing-Barbell-Curl.jpg?w=800&quality=86&strip=all"
+    },
+    {
+        "title": "Seated Incline Dumbbell Curl",
+        "about": "Staying seated while curling may seem like just a slight adjustment to standing, but you won’t be able to deny how hard your arms are working with this move. Sit on an adjustable bench between 45 and 60 degrees for the ideal effect. ",
+        "time": 40,
+        "image": "https://www.muscleandfitness.com/wp-content/uploads/2018/11/Bald-Man-Working-Out-His-Arms-With-A-Incline-Dumbbell-Curl-Exercise.jpg?w=800&quality=86&strip=all"
+    },
+    {
+        "title": "Trap Bar Walk",
+        "about": "The trap bar carry, while similar to the farmer’s walk, allows you to carry a whole lot more weight. Besides the gear, the workouts are essentially the same: Load your trap bar with a heavy weight, stand inside, lift it up, and start walking. ",
+        "time": 25,
+        "image": "https://www.muscleandfitness.com/wp-content/uploads/2019/04/5MovesCoreAbDumbellFarmersWalk0.jpg?w=800&quality=86&strip=all"
+    },
+    {
+        "title": "Pullups",
+        "about": "The pullup is a classic strength-building move that everyone needs to do in the gym. But whatever you do, don’t lose your form in favor of reps. Keep those legs straight for maximum payoff.",
+        "time": 15,
+        "image": "https://www.muscleandfitness.com/wp-content/uploads/2020/01/Shirtless-Man-Performing-Pullups-In-City-Park.jpg?w=800&quality=86&strip=all"
+    },
+    {
+        "title": "30-Degree Lat Pulldown",
+        "about": "This variation on the traditional pulldown not only strengthens your middle and upper back, it also works your shoulders, biceps, and forearms. ",
+        "time": 30,
+        "image": "https://www.muscleandfitness.com/wp-content/uploads/2018/11/Physically-Fit-Young-Man-Doing-A-Back-Workout-With-A-30-Degree-Lat-Pulldown-Exercise.jpg?w=800&quality=86&strip=all"
+    },
+    {
+        "title": "T-Bar Row",
+        "about": "As the favorite back exercise of Arnold Schwarzenegger himself, the T-bar row transcends all mere mortal workouts simply because of the Austrian Oak’s blessing. Here’s how to do it.",
+        "time": 20,
+        "image": "https://www.muscleandfitness.com/wp-content/uploads/2018/11/Musclar-Fitness-Model-Performing-A-T-Bar-Row-In-The-Gym.jpg?w=800&quality=86&strip=all"
+    },
+    {
+        "title": "Dips",
+        "about": "You don’t need any fancy equipment for dips (even a park bench will do), which makes this an ideal bodyweight workout for triceps. The different variations available can also target your pecs.",
+        "time": 50,
+        "image": "https://www.muscleandfitness.com/wp-content/uploads/2019/06/man-shoulder-dips-1109.jpg?w=800&quality=86&strip=all"
+    }
+]

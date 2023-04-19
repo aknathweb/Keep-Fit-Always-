@@ -1,0 +1,8 @@
+.QuestionAnswer {
+    margin: 2% 0%;
+    text-align: justify;
+    padding: 1%;
+    background-color: rgb(215, 248, 248);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(15, 15, 15);
+}

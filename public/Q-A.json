@@ -1,0 +1,14 @@
+[
+    {
+        "Q": "How does React Work?",
+        "A": "ReactJS divides the UI into isolated reusable pieces of code known as components. React components work similarly to JavaScript functions as they accept arbitrary inputs called properties or props. It's possible to have as many components as necessary without cluttering your code."
+    },
+    {
+        "Q": "What is the difference between state and props in React?",
+        "A": "Basically, the difference is that state is something like attributes in OOP : it's something local to a class (component), used to better describe it. Props are like parameters - they are passed to a component from the caller of a component (the parent) : as if you called a function with certain parameters."
+    },
+    {
+        "Q": "What does useEffect do, without fetching API data?",
+        "A": "The motivation behind the introduction of useEffect Hook is to eliminate the side-effects of using class-based components. For example, tasks like updating the DOM, setting up subscriptions or timers, etc can be lead to unwarranted side-effects."
+    }
+]

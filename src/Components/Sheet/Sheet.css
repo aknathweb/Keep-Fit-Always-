@@ -1,0 +1,82 @@
+h1 {
+    font-size: calc(10px + 3.5vmin);
+}
+
+h2 {
+    font-size: calc(10px + 3vmin);
+}
+
+h3 {
+    font-size: calc(10px + 2.5vmin);
+}
+
+p,
+button,
+span {
+    font-size: calc(10px + 1.5vmin);
+}
+
+.profile img {
+    width: 8vmin;
+    height: 8vmin;
+    border-radius: 100%;
+}
+
+.profile {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3%;
+    align-items: center;
+}
+
+.health {
+    background-color: #eff0fc;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    line-height: 0.5rem;
+    width: 100%;
+    border-radius: 10%;
+}
+
+.specific {
+    width: fit-content;
+    padding: 2%;
+}
+
+.break {
+    margin-top: 5%;
+    padding: 1%;
+}
+
+.break-time {
+    padding: 5%;
+    border-radius: 10%;
+    background-color: #eff0fc;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2%;
+
+}
+
+.break-time button {
+    width: fit-content;
+    padding: auto;
+    border-radius: 100%;
+}
+
+.time {
+    margin: 3%;
+    display: flex;
+    padding: 1%;
+    border-radius: 10%;
+    background-color: #eff0fc;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Activity-Completed {
+    margin-top: 5%;
+}
